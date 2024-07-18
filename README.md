@@ -1,2 +1,2 @@
 # KMeansAssigment
-KMeans assignment
+My own K-Means algorithm!
